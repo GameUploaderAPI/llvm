@@ -1,0 +1,138 @@
+.c {
+    font-size: 1em;
+    font-weight: bold
+    }
+.c1 {
+    font-weight: bold
+    }
+.c2 {
+    display: block;
+    height: 4em;
+    margin-left: 0;
+    margin-right: 0
+    }
+.calibre {
+    display: block
+    }
+.calibre1 {
+    display: block;
+    margin-bottom: 0.25em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-indent: 1em
+    }
+.calibre2 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    page-break-before: always;
+    text-align: center
+    }
+.calibre3 {
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    page-break-after: always
+    }
+.calibre4 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.83em;
+    padding-top: 1em;
+    page-break-before: always;
+    text-align: center
+    }
+.calibre5 {
+    border-bottom-color: currentColor;
+    border-bottom-style: inset;
+    border-bottom-width: 1px;
+    border-left-color: currentColor;
+    border-left-style: inset;
+    border-left-width: 1px;
+    border-right-color: currentColor;
+    border-right-style: inset;
+    border-right-width: 1px;
+    border-top-color: currentColor;
+    border-top-style: inset;
+    border-top-width: 1px;
+    color: gray;
+    display: block;
+    height: 2px;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    text-align: center;
+    width: 50%
+    }
+.calibre6 {
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 1em;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1em
+    }
+.calibre7 {
+    display: block;
+    margin-left: 0;
+    margin-right: 0
+    }
+.calibre8 {
+    font-style: italic
+    }
+.pgmonospaced {
+    display: block;
+    font-family: monospace;
+    font-size: 0.75em;
+    margin-left: 0;
+    margin-right: 0
+    }
+.toc {
+    display: block;
+    margin-bottom: 0.75em;
+    margin-right: 0;
+    margin-top: 0.25em;
+    text-indent: 1em
+    }
+.x-ebookmaker {
+    background: #faebd0;
+    background-color: white;
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: 0;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: 0;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: 0;
+    color: black;
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    width: auto
+    }
